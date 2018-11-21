@@ -1,4 +1,4 @@
-Dev.Key.F2="WINDOW Fit";
+Dev.Key.F2="WINDOW Fit"
 Dev.Key.F3="RUN backward"   #switch to previous device
 Dev.Key.F4="RUN forward"   #switch to next device
 Dev.Key.F5="RUN griddisplay"   #switch grid on/off

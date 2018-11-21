@@ -1,10 +1,10 @@
-Lbr.Key.F2="";
-Lbr.Key.F3="";
-Lbr.Key.F4="";
+Lbr.Key.F2=""
+Lbr.Key.F3=""
+Lbr.Key.F4=""
 Lbr.Key.F5="RUN griddisplay"   #switch grid on/off
 Lbr.Key.F6="RUN gridtype"   #switch grid to dots/lines
 Lbr.Key.F7="RUN grid20"   #double the current grid
 Lbr.Key.F8="RUN grid05"   #halfen the current grid
-Lbr.Key.F9="INFO";
-Lbr.Key.F10="UNDO";
+Lbr.Key.F9="INFO"
+Lbr.Key.F10="UNDO"
 Lbr.Key.F11="REDO"
